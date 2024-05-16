@@ -4,16 +4,16 @@
 
 ## INF Workshop
 
-Repository for the Minisymposium 2024 INF workshop on the 17th of May.
-9:30 - 11:00
+Repository for the Minisymposium 2024 INF workshop on the 17th of May.  
+9:30 - 11:00  
 Seminar room 5.161, Pfaffenwaldring 55
 
 ### 📑 Program
 
-9:30    Introduction into research data management (Niels Hansen)
-9:45    Ongoing research data management projects in SFB1333 (Jürgen Pleiss)
-10:00   Tools for research data management (Torsten Giess)
-10:30   Publishing datasets on DaRUS (Samir Darouich)
+9:30    Introduction into research data management (Niels Hansen)  
+9:45    Ongoing research data management projects in SFB1333 (Jürgen Pleiss)  
+10:00   Tools for research data management (Torsten Giess)  
+10:30   Publishing datasets on DaRUS (Samir Darouich)  
 10:45   Final discussion
 
 ### 🛠️ Working with Binder
