@@ -10,13 +10,11 @@ Seminar room 5.161, Pfaffenwaldring 55
 
 ### 📑 Program
 
-<pre>
-9:30    Introduction into research data management (Niels Hansen)  
-9:45    Ongoing research data management projects in SFB1333 (Jürgen Pleiss)  
-10:00   Tools for research data management (Torsten Giess)  
-10:30   Publishing datasets on DaRUS (Samir Darouich)  
-10:45   Final discussion
-</pre>
+9:30&nbsp;&nbsp;&nbsp;&nbsp;Introduction into research data management (Niels Hansen)  
+9:45&nbsp;&nbsp;&nbsp;&nbsp;Ongoing research data management projects in SFB1333 (Jürgen Pleiss)  
+10:00&nbsp;&nbsp;&nbsp;Tools for research data management (Torsten Giess)  
+10:30&nbsp;&nbsp;&nbsp;Publishing datasets on DaRUS (Samir Darouich)  
+10:45&nbsp;&nbsp;&nbsp;Final discussion
 
 ### 🛠️ Working with Binder
 
