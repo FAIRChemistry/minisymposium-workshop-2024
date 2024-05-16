@@ -19,12 +19,14 @@ Seminar room 5.161, Pfaffenwaldring 55
 ### 🛠️ Working with Binder
 
 By clicking on the Binder badge above or following this [link](https://mybinder.org/v2/gh/FAIRChemistry/minisymposium-workshop-2024/HEAD), you can start an interactive Jupyter notebook environment in your browser. This allows you to run the example code and modify it to your needs. No installation is required on your local machine.  
+
 Alternatively, you can download the repository and run the Jupyter notebooks on your local machine. For this, you need to have Python installed and install the required packages by changing to the project directery and using `pip install -r requirements.txt`. It is recommended to use a virtual environment for this.  
+
 Binder will take some time (usually around 5 min) to start the environment, so please be patient. Please note that the Binder environment is temporary and will be deleted after 10 minutes of inactivity. You can, however, download your changes (notebooks, results, ...) to your local machine at any time.  
 
 ### ⚡️ Sparked your interest?
 
-If you are interested in learning more about how to apply the HPLC tool for your own reasearch, please contact us. The INF team is happy to help you with your data management needs. There are also many other tools and workflows already available, e.g. for SAXS, NMR, IR, or flow chemistry. Of course, we would love to dive into new areas as well, so please do not hesitate to contact us!
+If you are interested in learning more about how to apply the HPLC tool for your own reasearch, please contact us. The [INF team](https://www.crc1333.de/research/projects/f-a-i-r-data-management-in-molecular-heterogeneous-catalysis-inf/) is happy to help you with your data management needs. There are also many other tools and workflows already available, e.g. for SAXS, NMR, IR, or flow chemistry. Of course, we would love to dive into new areas as well, so please do not hesitate to contact us!
 
 ### ⚖️ License
 
