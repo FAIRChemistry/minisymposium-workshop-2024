@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "minisymposium-workshop-2024"
+version = "1.0.0"
+description = "Example and data for the Minisymposium 2024 workshop on the 17th of May."
+authors = ["Torsten Giess <torsten.giess@ibtb.uni-stuttgart.de>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs = "^1.5.3"
+chromatopy = {git = "https://github.com/FAIRChemistry/chromatopy"}
+ipykernel = "^6.29.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
